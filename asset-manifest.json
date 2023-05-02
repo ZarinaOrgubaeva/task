@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "//ZarinaOrgubaeva.github.io/task/static/css/main.711595a5.css",
+    "main.js": "//ZarinaOrgubaeva.github.io/task/static/js/main.ef365e55.js",
+    "static/media/part2.svg": "//ZarinaOrgubaeva.github.io/task/static/media/part2.7fef61eda0ac7eaaa82bc83761b475f3.svg",
+    "static/media/whatsapp.svg": "//ZarinaOrgubaeva.github.io/task/static/media/whatsapp.ebe720f0c912eda28e2bf0613c18300f.svg",
+    "static/media/viber.svg": "//ZarinaOrgubaeva.github.io/task/static/media/viber.efdbe6bd3950a854df10750809a40828.svg",
+    "static/media/part1.svg": "//ZarinaOrgubaeva.github.io/task/static/media/part1.b823dbdeb1fce1c504c80f87459e8cce.svg",
+    "index.html": "//ZarinaOrgubaeva.github.io/task/index.html",
+    "static/media/telegram.svg": "//ZarinaOrgubaeva.github.io/task/static/media/telegram.1bffc5e0d5fe02b97269529e096c67bd.svg",
+    "main.711595a5.css.map": "//ZarinaOrgubaeva.github.io/task/static/css/main.711595a5.css.map",
+    "main.ef365e55.js.map": "//ZarinaOrgubaeva.github.io/task/static/js/main.ef365e55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.711595a5.css",
+    "static/js/main.ef365e55.js"
+  ]
+}
